@@ -1,0 +1,98 @@
+.sba-nav-item {
+    font-family: HelveticaNeue;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #707070;
+}
+
+
+
+.sba-heading {
+    font-family: HelveticaNeue;
+    font-size: 26px;
+    color: #000095;
+}
+
+.sba-integrate-blockchain {
+    font-family: Aleo;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color: #171717;
+}
+
+.sba-learn-more {
+    font-family: HelveticaNeue;
+    font-size: 16px;
+    text-align: center;
+    color: #000095;
+}
+
+.rectangle
+{
+    border: 1px solid #000095;
+    border-radius: 23px;
+    width: 185px;
+    padding: 10px;
+}
+
+.sba-image-text-placement {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.sba-mission-text {
+    font-family: Aleo;
+    font-size: 45px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+.sba-mission-image
+{
+    height: 650px;
+    width: 100%;
+
+    object-fit: cover;
+}
+
+.sba-title {
+    font-family: HelveticaNeue;
+    font-size: 32px;
+    color: #0000ff;
+}
+
+.sba-capability-text
+{
+
+    font-family: Aleo;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 1.33;
+    color: #4a4a4a;
+}
+
+
+@font-face {
+    font-family: HelveticaNeue;
+    src: url(./font/HelveticaNeue-Roman.woff);
+}
+
+@font-face {
+    font-family: Aleo;
+    src: url(./font/Aleo-Regular.woff);
+}
+
