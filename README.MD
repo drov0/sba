@@ -1,0 +1,1 @@
+This is the source code for the steem business alliance's landing page
