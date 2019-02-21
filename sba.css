@@ -81,6 +81,13 @@
     }
 }
 
+@media (max-width: 900px) {
+    .sba-footer-logo {
+        margin-left: -100%;
+    }
+}
+
+
 .sba-mission-image
 {
     height: 650px;
