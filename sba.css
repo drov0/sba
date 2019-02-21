@@ -61,6 +61,26 @@
     color: #ffffff;
 }
 
+@media (max-width: 500px) {
+
+    .sba-mission-text {
+        font-size: 5.3vw;
+    }
+}
+
+@media (max-width: 900px)   and (min-width: 501px){
+
+    .sba-mission-text {
+        font-size: 4vw;
+    }
+}
+@media (max-width: 1500px) and (min-width: 901px) {
+
+    .sba-mission-text {
+        font-size: 3vw;
+    }
+}
+
 .sba-mission-image
 {
     height: 650px;
@@ -84,6 +104,7 @@
     line-height: 1.33;
     color: #4a4a4a;
 }
+
 
 @font-face {
     font-family: HelveticaNeue;
